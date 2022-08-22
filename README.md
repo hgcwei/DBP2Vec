@@ -17,7 +17,7 @@ Experiments are done in Python, If you find this repository helpful, please cite
 
 ## requirements
 
-ESM-1b, see more in (https://github.com/facebookresearch/esm)
+ESM-1b, see more in (https://github.com/facebookresearch/esm), Note: please use our modified extract.py here. 
 
 run main.py
 
